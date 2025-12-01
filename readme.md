@@ -2,7 +2,7 @@
 
 ## The pitch:
 
-Hello, I'm an independent researcher, lately I've been experimenting with Webarena benchmark for evaluating Agent browsing capability in fixed envirinment. But the repo was about 10000 lines of code and not very reliable. So I decided to try to replicate its fuctionality with Google ADK. And here is my mock.
+Hello, My name is Artyom, I'm an independent researcher, lately I've been experimenting with [Webarena benchmark](https://webarena.dev/) for evaluating agent browsing capabilities in fixed environment. But the repo was about 10000 lines of code and not very reliable. So I decided to try to replicate its fuctionality with Google ADK. And here is my mockup.
 
 ## Core concept and value:
 
@@ -12,11 +12,12 @@ The agent have two main functions - page description and action performance (lik
 
 ## Setup:
 
-1) setup webarena websites (or use mine, I'll make them available for a couple of days after submission - http://158.160.91.48:4399)
-2) install playwrigth to browse with python ```playwright install``` or ```npx playwright install```
-3) ```adk web --port 8000``` or ```adk run my_agent```
+1) ```pip install -r requirements.txt```
+2) setup webarena websites (or use mine, I'll make them available for a couple of days after submission - http://158.160.91.48:4399)
+3) install playwrigth to browse with python ```playwright install``` or ```npx playwright install```
+4) ```adk web --port 8000``` or ```adk run my_agent```
 
-# Results:
+## Results:
 
 Here I'll leave some screenshots of what was achieved when testing. As you can see the Agent is able to successfully navigate through tree of links and extract price of the goods from second website.
 
