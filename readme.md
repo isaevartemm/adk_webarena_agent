@@ -13,7 +13,8 @@ The agent have two main functions - page description and action performance (lik
 ## Setup:
 
 1) setup webarena websites (or use mine, I'll make them available for a couple of days after submission - http://158.160.91.48:4399)
-2) ```adk web --port 8000``` or ```adk run my_agent```
+2) install playwrigth to browse with python ```playwright install``` or ```npx playwright install```
+3) ```adk web --port 8000``` or ```adk run my_agent```
 
 # Results:
 
