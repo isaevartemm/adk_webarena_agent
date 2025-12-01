@@ -27,4 +27,5 @@ Start page:
 
 
 Seconary page:
-![Uploading Снимок экрана 2025-12-01 в 22.54.49.png…]()
+<img width="1370" height="835" alt="Снимок экрана 2025-12-01 в 23 06 12" src="https://github.com/user-attachments/assets/9c8d4ab7-e510-493e-8ebd-10d3d5baf810" />
+
