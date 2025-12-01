@@ -23,7 +23,8 @@ Here I'll leave some screenshots of what was achieved when testing. As you can s
 
 
 Start page:
-![Снимок экрана 2025-12-01 в 22.41.50.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fqq%2Fn90xld6122xd2l8p1gnwt25r0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_52UwHf%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-12-01%20%D0%B2%2022.41.50.png)
+<img width="1544" height="625" alt="Снимок экрана 2025-12-01 в 22 54 35" src="https://github.com/user-attachments/assets/d5350368-acbc-494a-9984-c28a7a8bd0ed" />
+
 
 Seconary page:
-![Снимок экрана 2025-12-01 в 22.43.00.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fqq%2Fn90xld6122xd2l8p1gnwt25r0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_1yEoJP%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-12-01%20%D0%B2%2022.43.00.png)
+![Uploading Снимок экрана 2025-12-01 в 22.54.49.png…]()
