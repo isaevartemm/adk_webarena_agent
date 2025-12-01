@@ -8,7 +8,7 @@ Hello, I'm an independent researcher, lately I've been experimenting with Webare
 
 So when I started this project I saw dozens MCP options for data crawling, unfortunately none of them worked with my self-hosted benchmark webistes (probably of http path) so I wrote my own data crawling tools and imtegrated them with agent capabilities. 
 
-The agent have two main functions - page description and action performance (like clicking buttons or links). With this setup I've been able to quickle finish first experiments and now planning to extend research. I also added additional logging to each of functions
+The agent have two main functions - page description and action performance (like clicking buttons or links). With this setup I've been able to quickly finish first experiments and now planning to extend research. I also added additional logging to each of functions
 
 ## Setup:
 
